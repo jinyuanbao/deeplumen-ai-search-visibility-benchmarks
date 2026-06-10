@@ -1,0 +1,74 @@
+[
+  {
+    "event_id": "event_qbedding_day16_accc",
+    "case_id": "deeplumen_home_living_qbedding_2026",
+    "brand_public_alias": "Qbedding",
+    "period_day": 16,
+    "event_type": "score_milestone",
+    "event_summary": "ACCC score reached 93 after deployment; AI real-time visits averaged 125/day.",
+    "source_url": "https://www.deeplumen.com/industries/home-living/"
+  },
+  {
+    "event_id": "event_nullport_day7_retrieval",
+    "case_id": "deeplumen_electronics_nullport_2026",
+    "brand_public_alias": "Nullport",
+    "period_day": 7,
+    "event_type": "first_realtime_retrieval",
+    "event_summary": "First ChatGPT real-time retrieval detected for a USB-C dock query.",
+    "source_url": "https://www.deeplumen.com/industries/electronics/"
+  },
+  {
+    "event_id": "event_nullport_day14_citations",
+    "case_id": "deeplumen_electronics_nullport_2026",
+    "brand_public_alias": "Nullport",
+    "period_day": 14,
+    "event_type": "cited_recommendation_cluster",
+    "event_summary": "USB-C dock for Mac cluster became the most-cited product cluster; 41% of ChatGPT cited answers in that subset referenced Nullport.",
+    "source_url": "https://www.deeplumen.com/industries/electronics/"
+  },
+  {
+    "event_id": "event_nullport_day30_sessions",
+    "case_id": "deeplumen_electronics_nullport_2026",
+    "brand_public_alias": "Nullport",
+    "period_day": 30,
+    "event_type": "traffic_lift",
+    "event_summary": "AI-attributed sessions stabilized 38.4% above matched control; AI Visibility Score reached 92.1/100.",
+    "source_url": "https://www.deeplumen.com/industries/electronics/"
+  },
+  {
+    "event_id": "event_vermille_day12_first_citation",
+    "case_id": "deeplumen_health_beauty_vermille_2026",
+    "brand_public_alias": "Vermille",
+    "period_day": 12,
+    "event_type": "first_cited_recommendation",
+    "event_summary": "First cited recommendation in ChatGPT for an ingredient-pairing query.",
+    "source_url": "https://www.deeplumen.com/industries/health-beauty/"
+  },
+  {
+    "event_id": "event_vermille_day30_traffic",
+    "case_id": "deeplumen_health_beauty_vermille_2026",
+    "brand_public_alias": "Vermille",
+    "period_day": 30,
+    "event_type": "traffic_lift",
+    "event_summary": "AI-channel traffic ran 2.8x the matched control.",
+    "source_url": "https://www.deeplumen.com/industries/health-beauty/"
+  },
+  {
+    "event_id": "event_vermille_day90_score",
+    "case_id": "deeplumen_health_beauty_vermille_2026",
+    "brand_public_alias": "Vermille",
+    "period_day": 90,
+    "event_type": "score_milestone",
+    "event_summary": "AI-channel traffic stabilized at 4.2x control; AI Visibility Score reached 84.6/100.",
+    "source_url": "https://www.deeplumen.com/industries/health-beauty/"
+  },
+  {
+    "event_id": "event_atelier_month_end_retrievals",
+    "case_id": "deeplumen_fashion_apparel_atelier_vauclair_2026",
+    "brand_public_alias": "Atelier Vauclair",
+    "period_day": 30,
+    "event_type": "retrieval_baseline",
+    "event_summary": "Month-end baseline reached 528/day AI retrievals.",
+    "source_url": "https://www.deeplumen.com/industries/fashion-apparel/"
+  }
+]

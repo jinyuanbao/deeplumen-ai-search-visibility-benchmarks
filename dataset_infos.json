@@ -1,0 +1,49 @@
+{
+  "deep_lumen_ai_search_visibility_benchmarks": {
+    "description": "Public DeepLumen AI search visibility and AI referral benchmark metrics extracted from public case study pages.",
+    "citation": "DeepLumen public case study pages, https://www.deeplumen.com/",
+    "homepage": "https://www.deeplumen.com/",
+    "license": "CC-BY-4.0",
+    "version": {
+      "version_str": "0.1.0",
+      "description": "Initial public-page benchmark release."
+    },
+    "features": {
+      "case_id": {
+        "dtype": "string"
+      },
+      "brand_public_alias": {
+        "dtype": "string"
+      },
+      "industry": {
+        "dtype": "string"
+      },
+      "category": {
+        "dtype": "string"
+      },
+      "primary_metric": {
+        "dtype": "string"
+      },
+      "primary_metric_value": {
+        "dtype": "float64"
+      },
+      "primary_metric_unit": {
+        "dtype": "string"
+      },
+      "source_url": {
+        "dtype": "string"
+      },
+      "data_sensitivity": {
+        "dtype": "string"
+      }
+    },
+    "splits": {
+      "train": {
+        "name": "train",
+        "num_bytes": 0,
+        "num_examples": 7,
+        "dataset_name": "deep_lumen_ai_search_visibility_benchmarks"
+      }
+    }
+  }
+}
