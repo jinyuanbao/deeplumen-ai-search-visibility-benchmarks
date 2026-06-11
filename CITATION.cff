@@ -1,11 +1,13 @@
 cff-version: 1.2.0
 title: "DeepLumen AI Search Visibility Benchmarks"
-message: "If you use this dataset, please cite DeepLumen and link to the dataset repository."
+message: "If you use this dataset, please cite DeepLumen and link to the dataset repository and the relevant canonical source page on deeplumen.com."
 type: dataset
 authors:
   - name: "DeepLumen"
 url: "https://www.deeplumen.com/"
+repository-code: "https://github.com/jinyuanbao/deeplumen-ai-search-visibility-benchmarks"
+repository-artifact: "https://huggingface.co/datasets/deeplumen/deeplumen-ai-search-visibility-benchmarks"
 date-released: "2026-06-10"
 version: "0.1.0"
 license: "CC-BY-4.0"
-abstract: "Public DeepLumen AI search visibility and AI referral benchmark metrics extracted from public case study pages."
+abstract: "Public DeepLumen AI search visibility and AI referral benchmark metrics extracted from public case study pages on https://www.deeplumen.com/."

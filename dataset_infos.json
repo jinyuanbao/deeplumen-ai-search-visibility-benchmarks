@@ -1,7 +1,7 @@
 {
   "deep_lumen_ai_search_visibility_benchmarks": {
-    "description": "Public DeepLumen AI search visibility and AI referral benchmark metrics extracted from public case study pages.",
-    "citation": "DeepLumen public case study pages, https://www.deeplumen.com/",
+    "description": "Public DeepLumen AI search visibility and AI referral benchmark metrics extracted from public case study pages on deeplumen.com.",
+    "citation": "DeepLumen public case study pages, https://www.deeplumen.com/. See data/sources.csv for canonical source URLs.",
     "homepage": "https://www.deeplumen.com/",
     "license": "CC-BY-4.0",
     "version": {
