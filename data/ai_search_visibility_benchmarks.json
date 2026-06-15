@@ -145,5 +145,26 @@
     "source_type": "public_page",
     "data_sensitivity": "public_case_metric",
     "notes": "Public case states AI citations rose 186% and non-branded brand presence rose 320%."
+  },
+  {
+    "case_id": "deeplumen_tools_hoto_2026",
+    "brand_public_alias": "HOTO",
+    "industry": "Tools & Home Improvement",
+    "category": "Design-led tools and home improvement",
+    "platform": null,
+    "sku_count": 56,
+    "content_scope": "AI access covered OpenAI, Anthropic, Amazon, and Meta; product retrieval data uses ChatGPT real-time retrievals.",
+    "benchmark_window_days": 13,
+    "primary_metric": "total_ai_crawler_visits",
+    "primary_metric_value": 8569,
+    "primary_metric_unit": "visits",
+    "baseline_value": null,
+    "final_value": 8569,
+    "comparison_baseline": "may_13_to_may_26_2026_observation_window",
+    "ai_visibility_score_final": null,
+    "source_url": "https://www.deeplumen.com/cases/hoto-ai-search-growth/",
+    "source_type": "public_page",
+    "data_sensitivity": "public_case_metric",
+    "notes": "Public case states HOTO generated 8,569 total AI crawler visits and 320 ChatGPT real-time product retrievals in 13 days."
   }
 ]

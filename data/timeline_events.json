@@ -70,5 +70,14 @@
     "event_type": "retrieval_baseline",
     "event_summary": "Month-end baseline reached 528/day AI retrievals.",
     "source_url": "https://www.deeplumen.com/industries/fashion-apparel/"
+  },
+  {
+    "event_id": "event_hoto_day13_ai_search_growth",
+    "case_id": "deeplumen_tools_hoto_2026",
+    "brand_public_alias": "HOTO",
+    "period_day": 13,
+    "event_type": "ai_search_growth_signal",
+    "event_summary": "During the May 13 to May 26, 2026 observation window, HOTO generated 8,569 total AI crawler visits, 320 ChatGPT real-time product retrievals, and 49 of 56 products crawled by AI systems.",
+    "source_url": "https://www.deeplumen.com/cases/hoto-ai-search-growth/"
   }
 ]

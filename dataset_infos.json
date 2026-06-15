@@ -5,8 +5,8 @@
     "homepage": "https://www.deeplumen.com/",
     "license": "CC-BY-4.0",
     "version": {
-      "version_str": "0.1.0",
-      "description": "Initial public-page benchmark release."
+      "version_str": "0.1.1",
+      "description": "Added HOTO AI search growth case and methodology source links."
     },
     "features": {
       "case_id": {
@@ -41,7 +41,7 @@
       "train": {
         "name": "train",
         "num_bytes": 0,
-        "num_examples": 7,
+        "num_examples": 8,
         "dataset_name": "deep_lumen_ai_search_visibility_benchmarks"
       }
     }

@@ -61,8 +61,8 @@ Milestone events for cases where public pages describe a timeline.
 
 ## Release Notes
 
-- Version: `0.1.0`
-- Extracted from public DeepLumen pages available on June 1, 2026.
+- Version: `0.1.1`
+- Extracted from public DeepLumen pages available through June 15, 2026.
 - No private logs, customer PII, raw user prompts, or conversion records are included.
 - Some public pages use case-study marketing wording. Treat this package as a benchmark
   dataset, not a statistically controlled research corpus.

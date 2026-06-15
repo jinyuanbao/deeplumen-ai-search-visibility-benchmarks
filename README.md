@@ -46,7 +46,10 @@ The dataset uses public DeepLumen pages as source material. Key canonical refere
 - [Magarri AI citations case study](https://www.deeplumen.com/blog/magarri-case-study/)
 - [Looktech AI citations case study](https://www.deeplumen.com/blog/looktech-case-study/)
 - [1988 Coffee Estate AI search case study](https://www.deeplumen.com/blog/1988-coffee-estate-case-study/)
+- [HOTO AI search growth case study](https://www.deeplumen.com/cases/hoto-ai-search-growth/)
 - [ACCC scoring system](https://www.deeplumen.com/blog/accc-scoring-system/)
+- [AI Shelf Benchmark](https://www.deeplumen.com/whitepapers/ai-shelf-benchmark/)
+- [AI Traffic Logs for Ecommerce](https://www.deeplumen.com/blog/ai-traffic-logs-for-ecommerce/)
 
 ## Data Sensitivity
 
